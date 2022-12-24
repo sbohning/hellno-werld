@@ -1,5 +1,5 @@
 # hellno-werld
-tutorial Hell No, World!
+Hell No, World!
 
 __Repositories up to now__
 
