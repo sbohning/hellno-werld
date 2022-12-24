@@ -1,7 +1,7 @@
 # hellno-werld
 tutorial Hell No, World!
 
-__Repositories so far__
+__Repositories up to now__
 
 | repository   | contents            |
 | ------------ | --------------------|
