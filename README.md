@@ -1,7 +1,7 @@
 # hellno-werld
 Hell No, World!
 
-__Repositories so far__
+__Repositories thus far__
 
 | repository   | contents           |
 | ------------ | -------------------|
