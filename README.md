@@ -11,6 +11,6 @@ __Repositories up to now__
 ***
 wannabe up-to-date :joy:
 
-PM~2.5~ pollution
+PM<sub>2.5</sub> pollution
 
 H~2~O water
