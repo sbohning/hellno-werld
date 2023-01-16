@@ -13,4 +13,5 @@ wannabe up-to-date :joy:
 
 PM<sub>2.5</sub> pollution
 
-H~2~O water
+H~2~O water  (\~ does strikeout, not subscript)
+Line added from RStudio editor, 2023-01-16
